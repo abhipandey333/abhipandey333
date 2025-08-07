@@ -1,6 +1,6 @@
 ## Hello👋 I'm Abhi 🧑🏻‍💻
 
-I am a fullstack developer from India 🇮🇳 I am working as a Software Developer at [Automatedpros.io](https://automatedpros.io/)
+I am a fullstack developer from India 🇮🇳 I am working as a Software Developer at [Globallogic](https://www.globallogic.com/)
 
 ### Currently I am working with ...
 
@@ -14,6 +14,11 @@ I am a fullstack developer from India 🇮🇳 I am working as a Software Develo
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="BitBucket" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="BitBucket" width="55" height="55"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Nodejs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Graphql" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Nextjs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Spring" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Tailwind-css" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### I have also worked with ...
 
@@ -27,4 +32,5 @@ I am a fullstack developer from India 🇮🇳 I am working as a Software Develo
 ### You can also find me on ...
 
 <a href="https://twitter.com/rishabpandey333" target="_blank" title="rishabpandey333" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:pandey.333.abhishek@gmail.com" target="_blank" title="pandey.333.abhishek@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:pandey.333.abhishek@gmail.com" target="_blank" title="pandey.333.abhishek@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhi-pandey03" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="30" height="30"/></a>
