@@ -36,10 +36,10 @@ I specialize in **Laravel & Vue.js/Nuxt.js**, with hands-on production experienc
 <a href="" title="Spring" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Tailwind-css" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="BigBlueButton" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BigBlueButton_icon.svg/640px-BigBlueButton_icon.svg.png" alt="" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="" title="BigBlueButton" target="_blank" rel="noreferrer"><img src="https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png" alt="" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="" title="BitBucket" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="" width="55" height="55"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
