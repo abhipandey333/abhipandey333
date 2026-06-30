@@ -22,6 +22,7 @@ I specialize in **Laravel & Vue.js/Nuxt.js**, with hands-on production experienc
 <a href="" title="Nextjs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Nodejs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Nestjs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Google ADK" rel="noreferrer"><img src="https://adk.dev/assets/agent-development-kit.png" alt="Google ADK" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Graphql" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -46,4 +47,5 @@ I specialize in **Laravel & Vue.js/Nuxt.js**, with hands-on production experienc
 ### 📫 You can also find me on
 
 <a href="https://www.linkedin.com/in/abhi-pandey03" target="_blank" title="LinkedIn"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://x.com/rishabpandey333" target="_blank" title="X"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:pandey.333.abhishek@gmail.com" target="_blank" title="pandey.333.abhishek@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
